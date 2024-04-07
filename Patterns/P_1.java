@@ -1,5 +1,5 @@
     /*  1st Pattern: * * * * *
-                     * * * * *
+                     * * * * *          //  this sign is used to comment on multiple lines
                      * * * * *
                      * * * * *
                      * * * * *    */
