@@ -1,12 +1,12 @@
-    // 3rd Pattern: * 
-    //              * * 
-    //              * * *               // This sign is used to comment on single line
-    //              * * * * 
-    //              * * * * *
+    // 5th Pattern:            *
+    //                       * *
+    //                     * * *
+    //                   * * * *
+    //                 * * * * *
 
 import java.util.*;
 
-public class P_3{
+public class P_5{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         char ch;
@@ -20,8 +20,13 @@ public class P_3{
                 for(int s =0; s<20; s++){
                     System.out.print(" ");
                 }
-                for(int j=0; j<=i; j++){
-                    System.out.print("* ");
+                for(int j=0; j<c; j++){
+                    if (i+j>=r-1) {
+                        System.out.print("* ");
+                    }
+                    else{
+                        System.out.print("  ");
+                    }
                 }
                 System.out.println();
             }
