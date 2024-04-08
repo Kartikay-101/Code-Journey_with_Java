@@ -46,7 +46,6 @@ For support, email k.matrix.hacked@gmail.com or join our <a href="https://github
 <a href="https://twitter.com/@kartikay____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kartikay____" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kartikay-nautiyal-251a55263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikay-nautiyal-251a55263" height="30" width="40" /></a>
 <a href="https://instagram.com/kartikay_nautiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikay_nautiyal" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/8DEXDkYW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8DEXDkYW" height="30" width="40" /></a>
 <a href="https://discord.gg/2BeekwwncC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8DEXDkYW" height="30" width="40" /></a>
 </p>
 <hr/>
