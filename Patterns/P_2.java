@@ -22,7 +22,7 @@ public class P_2{
                 }
                 for(int j=0; j<c; j++){
                     if ( i==0 || j==0 || i==r-1 || j==c-1) {
-                        System.out.print("*");
+                        System.out.print("* ");
                     }
                     else{
                         System.out.print(" ");
