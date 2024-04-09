@@ -5,7 +5,7 @@
                                  * * * * *    */
 
 import java.util.*;
-public class 1st_Rectangular_Pattern{
+public class P_1{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);    // Scanner class to take input from user
         char ch;
