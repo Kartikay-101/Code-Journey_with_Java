@@ -20,7 +20,7 @@
                     for(int s =0; s<20; s++){
                         System.out.print(" ");
                     }
-                    for(int j=0; j<c; j++)
+                    for(int j=0; j<c; j++){
                         if (i+j<=r-1) {
                             int sum = i+j;
                             if (sum%2==0) {
@@ -33,6 +33,7 @@
                         else{
                             System.out.print("  ");
                         }
+                    }
                     System.out.println();
                 }
                 System.out.print("\n\tDo you want to continue? (Y/N): ");

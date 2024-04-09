@@ -36,3 +36,16 @@ public class P_5{
         sc.close();
     }
 }
+    //anoother way to solve this pattern
+                                    // for(int i=0; i<r; i++){
+                                    //     for(int s =0; s<20; s++){
+                                    //         System.out.print(" ");
+                                    //     } 
+                                    //     for(int j = 0; j < r - i; j++) {
+                                    //         System.out.print("  ");
+                                    //     }
+                                    //     for(int k = 0; k <= i; k++) {
+                                    //         System.out.print("* ");
+                                    //     }
+                                    //     System.out.println();
+                                    // }
