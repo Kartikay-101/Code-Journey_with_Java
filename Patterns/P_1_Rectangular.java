@@ -5,7 +5,7 @@
                                  * * * * *    */
 
 import java.util.*;
-public class P_1{
+public class P_1_Rectangular{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);    // Scanner class to take input from user
         char ch;

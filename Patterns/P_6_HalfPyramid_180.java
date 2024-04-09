@@ -6,7 +6,7 @@
 
     import java.util.*;
 
-    public class P_6{
+    public class P_6_HalfPyramid_180{
         public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
             char ch;

@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class P_5{
+public class P_5_InvertHalfPyramid_180{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         char ch;

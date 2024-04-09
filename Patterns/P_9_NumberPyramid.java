@@ -1,10 +1,11 @@
-    // 10th Palindromic Pattern:         1
-    //                                 2 1 2
-    //                               3 2 1 2 3
-    //                             4 3 2 1 2 3 4 
-    //                           5 4 3 2 1 2 3 4 5
+    //9th Number Pyramid Pattern:    1
+    //                              2 2
+    //                             3 3 3
+    //                            4 4 4 4
+    //                           5 5 5 5 5 
+
 import java.util.*;
-public class P_10{
+public class P_9_NumberPyramid{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char ch;
@@ -17,13 +18,10 @@ public class P_10{
                     System.out.print(" ");
                 }
                 for(int j=0;j<(r-1)-i;j++){
-                    System.out.print("  ");
+                    System.out.print(" ");
                 }
-                for(int j=i;j>=0;j--){
-                    System.out.print((j+1)+ " ");
-                }
-                for(int j=0;j<=(i-1);j++){
-                    System.out.print((j+2)+ " ");
+                for(int j=0;j<=i;j++){
+                    System.out.print((i+1)+" ");
                 }
                 System.out.println();
             }

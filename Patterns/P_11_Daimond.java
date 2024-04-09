@@ -11,7 +11,7 @@
     //                       * 
 
 import java.util.*;
-public class P_11{
+public class P_11_Daimond{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char ch;

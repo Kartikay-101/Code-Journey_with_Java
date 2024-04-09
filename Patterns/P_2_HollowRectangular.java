@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class P_2{
+public class P_2_HollowRectangular{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         char ch;

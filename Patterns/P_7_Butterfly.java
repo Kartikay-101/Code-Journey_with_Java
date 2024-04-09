@@ -7,7 +7,7 @@
     //                           * *         * *
     //                           *             *
 import java.util.*;
-public class P_7{
+public class P_7_Butterfly{
     public static void main(String[] srgs){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows: ");

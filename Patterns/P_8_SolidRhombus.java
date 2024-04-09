@@ -4,7 +4,7 @@
     //                            *****
     //                           *****
 import java.util.*;
-public class P_8{
+public class P_8_SolidRhombus{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         char ch;
