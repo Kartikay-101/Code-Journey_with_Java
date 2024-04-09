@@ -1,8 +1,8 @@
-    // 3rd Pattern:    1 
-    //                 1 2
-    //                 1 2 3                  // This sign is used to comment on single line
-    //                 1 2 3 4
-    //                 1 2 3 4 5
+    // 3rd half Pyramid Pattern:    1 
+    //                              1 2
+    //                              1 2 3                  // This sign is used to comment on single line
+    //                              1 2 3 4
+    //                              1 2 3 4 5
 
 import java.util.*;
 

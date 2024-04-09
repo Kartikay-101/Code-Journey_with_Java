@@ -1,8 +1,8 @@
-    // 8th Pattern:    *****
-    //                *****
-    //               *****
-    //              *****
-    //             *****
+    // 8th Solid Rhombus Pattern:    *****
+    //                              *****
+    //                             *****
+    //                            *****
+    //                           *****
 import java.util.*;
 public class P_8{
     public static void main(String[] args){

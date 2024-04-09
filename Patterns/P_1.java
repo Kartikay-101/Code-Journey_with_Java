@@ -1,11 +1,11 @@
-    /*  1st Pattern: * * * * *
-                     * * * * *          //  this sign is used to comment on multiple lines
-                     * * * * *
-                     * * * * *
-                     * * * * *    */
+    /*  1st Rectangular Pattern: * * * * *
+                                 * * * * *          //  this sign is used to comment on multiple lines
+                                 * * * * *
+                                 * * * * *
+                                 * * * * *    */
 
 import java.util.*;
-public class P_1{
+public class 1st_Rectangular_Pattern{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);    // Scanner class to take input from user
         char ch;

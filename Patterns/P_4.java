@@ -1,8 +1,8 @@
-    // 3rd Pattern: * * * * *
-    //                * * * *
-    //                  * * *              // This sign is used to comment on single line
-    //                    * *
-    //                      *
+    // 3rd Invert half Pyramid Pattern: * * * * *
+    //                                    * * * *
+    //                                      * * *              // This sign is used to comment on single line
+    //                                        * *
+    //                                          *
 
 import java.util.*;
 

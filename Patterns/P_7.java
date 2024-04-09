@@ -1,11 +1,11 @@
-    // 7th Pattern:    *             *
-    //                 * *         * *
-    //                 * * *     * * *
-    //                 * * * * * * * *
-    //                 * * * * * * * *
-    //                 * * *     * * *
-    //                 * *         * *
-    //                 *             *
+    // 7th Butterfly Pattern:    *             *
+    //                           * *         * *
+    //                           * * *     * * *
+    //                           * * * * * * * *
+    //                           * * * * * * * *
+    //                           * * *     * * *
+    //                           * *         * *
+    //                           *             *
 import java.util.*;
 public class P_7{
     public static void main(String[] srgs){

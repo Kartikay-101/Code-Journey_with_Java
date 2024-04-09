@@ -1,8 +1,8 @@
-    /* 2nd Pattern: * * * * *
-                    *       *
-                    *       *
-                    *       *
-                    * * * * *   */
+    /* 2nd Hollow Rectangular Pattern: * * * * *
+                                       *       *
+                                       *       *
+                                       *       *
+                                       * * * * *   */
 
 import java.util.*;
 

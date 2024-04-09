@@ -1,8 +1,8 @@
-    // 5th Pattern:            *
-    //                       * *
-    //                     * * *
-    //                   * * * *
-    //                 * * * * *
+    // 5th Invert half Pyramid Pattern(180):        *
+    //                                            * *
+    //                                          * * *
+    //                                        * * * *
+    //                                      * * * * *
 
 import java.util.*;
 

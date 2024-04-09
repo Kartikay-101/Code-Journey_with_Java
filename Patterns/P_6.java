@@ -1,8 +1,8 @@
-// 5th Pattern:    1 0 1 0 1
-//                 0 1 0 1
-//                 1 0 1
-//                 0 1
-//                 1
+// 5th Half Pyramid Pattern(180):      1 0 1 0 1
+//                                     0 1 0 1
+//                                     1 0 1
+//                                     0 1
+//                                     1
 
     import java.util.*;
 
