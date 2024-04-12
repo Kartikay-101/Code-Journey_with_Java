@@ -5,12 +5,12 @@
 import java.util.*;
 
 public class Power_of_Digit {
-    public static int Fact(int num, int p) { // Function to find the power of a number.
+    public static int Fact(int num, int Power) { // Function to find the power of a number.
         int fact = 1;
         if(num<0)
             System.out.println("Invalid input");
         
-        for(int i = 1; i <= p; i++) { // Loop to find the power of a number.
+        for(int i = 1; i <= Power; i++) { // Loop to find the power of a number.
             fact = fact * num;  // Power calculation.
         }
         return fact;
@@ -24,9 +24,9 @@ public class Power_of_Digit {
         System.out.println("Invalid input");
         else {
             System.out.print("Enter the power of "+num+": ");
-        int p = sc.nextInt();
-        int ans = Fact(num, p);    // Function call.
-        System.out.println("\n\tThe Digit " + num + " to the power " + p +" is '" + ans +"'\n\n");
+        int power = sc.nextInt();
+        int ans = Fact(num, power);    // Function call.
+        System.out.println("\n\tThe Digit " + num + " to the power " + power +" is '" + ans +"'\n\n");
     }
         sc.close();
     }
