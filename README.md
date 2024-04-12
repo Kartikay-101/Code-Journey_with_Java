@@ -50,9 +50,9 @@ For support, email k.matrix.hacked@gmail.com or join our <a href="https://github
 </p> -->
 <hr/>
 
-<a href="https://github.com/Kartikay-101/Code-Journey_with_Java.git" target="_blank">
-    <h2>This repository is constantly evolving, so feel free to contribute your solutions, ideas, and questions to build a vibrant learning community.</h2>
-</a>
+<h1><a href="https://github.com/Kartikay-101/Code-Journey_with_Java.git" target="_blank">
+    This repository is constantly evolving, so feel free to contribute your solutions, ideas, and questions to build a vibrant learning community.
+</a></h1>
 
 <hr/>
 
