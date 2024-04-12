@@ -6,6 +6,11 @@ This repository is our one-stop shop for mastering the art of coding in Java, eq
 
 <hr/>
 
+## How much Java do I need to learn for Android development🫨❔
+
+1] Variables &nbsp;&nbsp;2] Loops &nbsp;&nbsp;3] Conditionals &nbsp;&nbsp;4} Logical/Relaion Operator &nbsp;&nbsp;5] Exeptional Handling &nbsp;&nbsp;6] Function &nbsp;&nbsp;<br/>
+7] Classes & Inheritance &nbsp;&nbsp;8] Collection Framework &nbsp;&nbsp; 9] Thread & Libraries &nbsp;&nbsp;10] OOPs Concept
+
 ## What you'll find inside:
 
 i] Solid Java Foundation: Build a strong understanding of Java syntax, control flow, object-oriented programming principles (encapsulation, inheritance, polymorphism), and exception handling.
@@ -15,12 +20,7 @@ ii] Data Structures Demystified: Explore core data structures like arrays, linke
 iii] Algorithm Boot Camp: Master fundamental algorithms like searching, sorting, recursion, dynamic programming, and graph traversal through interactive exercises and problem-solving techniques.
 
 iv] Real-world Application: See how DSA concepts come to life by tackling practical coding challenges and projects that solidify your learning.
-## What you'll gain:
-i] Confident Coding: Write clean, maintainable, and efficient Java code with a solid grasp of programming fundamentals.
 
-ii] Algorithmic Problem-Solving: Approach any coding challenge with the right set of data structures and algorithms.
-
-iii] Coding Proficiency: Develop the skills and knowledge to tackle real-world programming tasks and projects.
 ## This repository is ideal for:
 ~Beginners with no prior programming experience seeking a structured introduction to Java and DSA.
 
@@ -50,7 +50,9 @@ For support, email k.matrix.hacked@gmail.com or join our <a href="https://github
 </p> -->
 <hr/>
 
-## This repository is constantly evolving, so feel free to contribute your solutions, ideas, and questions to build a vibrant learning community.
+<h1><a href="https://github.com/Kartikay-101/Code-Journey_with_Java.git" target="_blank">
+    This repository is constantly evolving, so feel free to contribute your solutions, ideas, and questions to build a vibrant learning community.
+</a></h1>
 
 <hr/>
 
