@@ -5,9 +5,9 @@
 
 import java.util.*;
 public class Factorial{
-    public static int Fact(int i, int fact,int k){ // Function to find the factorial of a number.
+    public static int Fact(int i, int fact,int num){ // Function to find the factorial of a number.
         fact=i=1;
-        for(i=1; i<=k; i++){ // Loop to find the factorial of a number.
+        for(i=1; i<=num; i++){ // Loop to find the factorial of a number.
             fact = fact*i;  // Factorial calculation.
         }
         return fact;
